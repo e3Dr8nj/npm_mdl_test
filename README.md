@@ -15,7 +15,7 @@ create file 'main.js' and put this code there
 
    client.login(process.env.TOKEN_BOT);
 ```
-create dir 'rh_modules' ,and put file 'test.js' add there following code
+create dir 'rh_modules' ,and put file 'hello_world.js' add there following code
 ```js
 module.exports.commands = {};
 
