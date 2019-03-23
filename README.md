@@ -1,4 +1,4 @@
-#Row Handler. Commands, events, and boots generator. 
+#Row Handler. Commands, events, and boots generator. For discord API
 
 ##hello world
 create file 'main.js' and put this code there
