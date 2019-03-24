@@ -1,6 +1,6 @@
-#Row Handler. Commands, events, and boots generator. For discord API
+# Row Handler. Commands, events, and boots generator. For discord API
 
-##hello world
+## hello world
 create file 'main.js' and put this code there
 ```js
     const Discord = require("discord.js");
