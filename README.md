@@ -129,7 +129,7 @@ module.exports.events_primitive.SOME_EVENT_NAME={run:async(client,event)=>{try{
 //module.exports.events_primitive.SOME_EVENT_NAME.RH_IGNORE = true;//add this line to ignore this primitive event trigger
 
 ```
-
+```ini
    EVENTS:
 channelCreate
 channelDelete
@@ -214,7 +214,7 @@ TYPING_START
 VOICE_SERVER_UPDATE
 RELATIONSHIP_ADD
 RELATIONSHIP_REMOVE
-
+```
 //
-read more:https://discord.js.org
+read more about events,websocet events and client methods :https://discord.js.org
 
