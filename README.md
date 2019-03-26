@@ -69,6 +69,7 @@ run main.js file and send '!hello'
    }catch(err){console.log(err);}; });
 
    client.login(process.env.TOKEN_BOT);
+```
 
 ## simple module example
 
