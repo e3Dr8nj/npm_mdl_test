@@ -117,7 +117,8 @@ module.exports.events_primitive.SOME_EVENT_NAME={run:async(client,event)=>{try{
 }catch(err){console.log(err);};}};//
 //module.exports.events_primitive.SOME_EVENT_NAME.RH_IGNORE = true;//add this line to ignore this primitive event trigger
 
-/*
+```
+
    EVENTS:
 channelCreate
 channelDelete
@@ -205,5 +206,4 @@ RELATIONSHIP_REMOVE
 
 //
 read more:https://discord.js.org
-*/
-```
+
