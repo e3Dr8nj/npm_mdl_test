@@ -71,7 +71,9 @@ run main.js file and send '!hello'
    client.login(process.env.TOKEN_BOT);
 
 ## simple module example
+
 ```js
+
 //________________________________________TOOLS__________________________________________
 let delay=async(duration)=>{await new Promise(resolve=>setTimeout(resolve,duration))}; 
      //* for delay inside async function, use it instead setTimeout
