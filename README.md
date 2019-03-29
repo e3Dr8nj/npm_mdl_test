@@ -217,4 +217,5 @@ RELATIONSHIP_REMOVE
 ```
 //
 read more about events,websocet events and client methods :https://discord.js.org
+https://github.com/e3Dr8nj/rh_for_discord
 
