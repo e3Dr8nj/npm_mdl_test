@@ -91,7 +91,7 @@ let random =(max)=>{ return Math.floor(Math.random()*max);};
 
 //___________________________ETERNAL_VARIABLE_PART
 module.exports.e={};
-   e.test="test";
+module.exports.ce.test="test";
 //_________________________________________BOOTS_PART___________________________________________________
 module.exports.boots = {}; 
 
